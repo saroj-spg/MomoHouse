@@ -1,7 +1,7 @@
 
 import img1 from "../../assets/One_bg.jpg";
 import Back1 from '../../assets/back1.png'
-import Momo1 from '../../assets/Momo1.png'
+import Momo1 from '../../assets/momo1.png'
 
 import Button from "../../Components/Button";
 function First() {
