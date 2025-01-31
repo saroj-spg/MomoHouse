@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import QR from "../assets/qr.png"
+import QR from '../assets/Qr.png'
+
 import { IoMdPhonePortrait } from "react-icons/io";
 import Footer from "../Components/Footer";
 function Menu() {
