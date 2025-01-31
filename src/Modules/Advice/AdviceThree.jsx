@@ -1,5 +1,5 @@
 import React from 'react'
-import QR from "../../assets/qr.png"
+import QR from "../../assets/Qr.png"
 import { IoMdPhonePortrait } from "react-icons/io";
 const AdviceThree = () => {
   return (

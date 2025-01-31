@@ -1,6 +1,6 @@
 import React from 'react'
 import Service1 from '../../assets/Service1.png'
-import img1 from '../../assets/dot.png'
+
 const AdviceOne = () => {
   return (
     <div className='flex justify-center gap-24'>
