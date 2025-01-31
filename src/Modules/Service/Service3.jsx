@@ -2,7 +2,7 @@ import React from 'react'
 import PartyPrivate from '../../assets/privateparty.png'
 import Catergring from '../../assets/categring.png'
 import Service from '../../assets/service.png'
-import Qr from '../../assets/qr.png'
+import Qr from '../../assets/Qr.png'
 const Service3 = () => {
   return (
 <>
